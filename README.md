@@ -1,1 +1,2 @@
-# second_homework
+second homework (c++)
+made by Zolotov Nikita and Kulikov Vadim
